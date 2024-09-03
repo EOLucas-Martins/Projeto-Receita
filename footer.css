@@ -1,0 +1,9 @@
+.rodape {
+    color: #F0E8C2;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

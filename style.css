@@ -1,0 +1,30 @@
+body {
+    background-color: #50270a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200%;
+    background-image: url('images/main-image.png');
+    background-color: #946748;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    filter: blur(4px);
+    border: 10px solid #50270a; 
+    z-index: -1; 
+}
+
+.quadrado {
+    width: 800px;  
+    height: 1440px; 
+    background-color: #F0E8C2; 
+    margin: 50px auto;
+    border-radius: 20px;
+}

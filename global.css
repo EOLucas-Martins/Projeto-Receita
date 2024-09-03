@@ -1,0 +1,10 @@
+@import url(header.css);
+@import url(main.css);
+@import url(style.css);
+@import url(footer.css);
+
+.alice-regular {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
