@@ -1,7 +1,6 @@
 # Projeto Padaria
 
 ![GitHub](https://github.com/user-attachments/assets/9804dff5-1251-40ff-a98a-140c7749164b)
-)
 
 > Bem vindo!
 
