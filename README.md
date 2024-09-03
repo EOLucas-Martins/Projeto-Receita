@@ -6,7 +6,7 @@
 
 Esta página foi desenvolvida como parte do meu aprendizado em HTML e CSS. Aqui, você encontrará uma deliciosa receita que reflete minha jornada no desenvolvimento web. Aproveite para explorar o código e, quem sabe, se inspirar para criar suas próprias páginas!
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://eolucas-martins.github.io/Projeto-Receita/)
 
 ## Tecnologias
 
